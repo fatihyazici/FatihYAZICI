@@ -1,7 +1,5 @@
 ### Hi there I am Fatih . I am an Embedded Software Engineer👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on
        * C/C++
        * Embedded Software Development
@@ -10,7 +8,7 @@ Here are some ideas to get you started:
        * FreeRTOS
        * Python
        
-- 🌱 I’m currently learning C++ :)  
+- 🌱 I’m currently learning C++:)  
 - 📫 How to reach me: linkedin.com/in/fatihyazicii
-- ⚡ Fun fact: I love playing guitar :)
--->
+- ⚡ Fun fact: I love playing guitar 🎸 :)
+--
