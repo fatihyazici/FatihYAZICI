@@ -1,16 +1,16 @@
-### Hi there 👋
-
-<!--
-**fatihyazici/FatihYAZICI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I am Fatih . I am an Embedded Software Engineer👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on
+       * C/C++
+       * Embedded Software Development
+       * Arm Cortex M Series (STM32, LPC8xx, NRF52, ESP32...)
+       * BLE , Lora , Wifi Communications
+       * FreeRTOS
+       * Python
+       
+- 🌱 I’m currently learning C++ :)  
+- 📫 How to reach me: linkedin.com/in/fatihyazicii
+- ⚡ Fun fact: I love playing guitar :)
 -->
